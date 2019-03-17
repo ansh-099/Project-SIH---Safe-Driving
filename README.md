@@ -1,4 +1,4 @@
-# Dream Slayers
+# Team - Dream Slayers
 
 ## Functionality
 
