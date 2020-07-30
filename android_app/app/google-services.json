@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874391851309",
+    "firebase_url": "https://sihalert.firebaseio.com",
+    "project_id": "sihalert",
+    "storage_bucket": "sihalert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874391851309:android:8a5f91cfa24d69c3c9c3a4",
+        "android_client_info": {
+          "package_name": "com.icos.anshulsingh.sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874391851309-tovvjaipnhadjaefar6fp9jjnikue1lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icos.anshulsingh.sih",
+            "certificate_hash": "3d8fee24caf107ea3424534cd5aac30ec9c59739"
+          }
+        },
+        {
+          "client_id": "874391851309-57qmrag3u1vujrutf51lfhj7rdu2qgt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcwLY-buJNoL7Wu_hJrAFepD6gWslzyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874391851309-57qmrag3u1vujrutf51lfhj7rdu2qgt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
