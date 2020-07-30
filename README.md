@@ -26,4 +26,13 @@
 <li>Google Maps API</li>
 <li>minSDK version19</li>
 </ul>
+</br>
+
+### Get Directions 
+
+<a><img src="https://user-images.githubusercontent.com/35291991/88955373-757b0280-d2b9-11ea-86a8-7bda034c4461.png" align="left" height="480" width="270"/>
+
+</br>
+Get Disclaimer about your area .i.e. in a risky area or not. </br>
+
 
