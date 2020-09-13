@@ -38,7 +38,7 @@ Not just detecting but also predicting impairment of a car driver’s operationa
 * Get Disclaimer about your area .i.e. in a risky area or not. </br>
 * Get to know What should be your best velocity. </br>
 
-### TECH STACK USED
+### Tech Stack Used
 <ul>
 <li>Python</li>
 <li>Tensorflow</li>
