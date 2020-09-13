@@ -39,17 +39,11 @@ Not just detecting but also predicting impairment of a car driver’s operationa
 * Get to know What should be your best velocity. </br>
 
 ### Tech Stack Used
-<ul>
-<li>Python</li>
-<li>Tensorflow</li>
-<li>Keras</li>
-<li>Flask</li>
-<li>Heroku server</li>
-<li>PyGame</li>
-<li>Firebase </li>
-<li>Google Maps API</li>
-<li>minSDK version21</li>
-</ul>
-</br>
+* [Keras](https://keras.io/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Heroku](https://www.heroku.com/)
+* [Firebase](https://firebase.google.com/docs)
+* [Google Maps API](https://developers.google.com/maps/documentation)
+
 
 Cheers!
