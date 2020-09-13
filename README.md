@@ -24,10 +24,6 @@ Not just detecting but also predicting impairment of a car driver’s operationa
 
 * You can check the pdfs included for complete details.
 
-### Get Directions 
-
-* Get Disclaimer about your area .i.e. in a risky area or not. </br>
-* Get to know What should be your best velocity. </br>
 <table>
         <tr>
 <td><img src = "https://user-images.githubusercontent.com/35291991/88955373-757b0280-d2b9-11ea-86a8-7bda034c4461.png" height = "460" width="240"></td>
@@ -43,6 +39,11 @@ Not just detecting but also predicting impairment of a car driver’s operationa
 </br>
 
 
+### Get Directions 
+
+* Get Disclaimer about your area .i.e. in a risky area or not. </br>
+* Get to know What should be your best velocity. </br>
+
 ### TECH STACK USED
 <ul>
 <li>Python</li>
@@ -57,4 +58,4 @@ Not just detecting but also predicting impairment of a car driver’s operationa
 </ul>
 </br>
 
-
+Cheers!
