@@ -15,8 +15,7 @@ Not just detecting but also predicting impairment of a car driver’s operationa
 * Machine learning model for predicting optimal velocity to avoid collision.
 * ML model deployed at server https://alertme123.herokuapp.com/api 
 * Android App (AlertMe) providing functionality: notification when in high danger zone,demarcating areas on map accoring to accidents  data , performing a HTTP POST request to the server to make predictions.
-* An alternative mathematical model for avoiding collisions by taking into consideration distance vectors , velocity vectors and their dot products . A GUI simulation was made for the same using using tkinter and matplotlib. 
-* Adaptive headlight model simulated using PyGame. 
+* An alternative mathematical model for avoiding collisions by taking into consideration distance vectors , velocity vectors and their dot products . A GUI simulation was made for the same using using matplotlib. 
 * You can check the pdfs included for complete details.
 
 <table>
