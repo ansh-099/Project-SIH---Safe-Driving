@@ -32,8 +32,8 @@ Not just detecting but also predicting impairment of a car driver’s operationa
         </tr>
         <tr>
 <td><img src = "https://user-images.githubusercontent.com/35291991/93025201-9d2feb00-f619-11ea-98c0-58a26ebbe116.png" height = "460" width="240"></td>
-<td><img src = "https://user-images.githubusercontent.com/35291991/93025128-08c58880-f619-11ea-9b2b-9f41b8c149ad.png" height = "460" width="240"></td>
 <td><img src = "https://user-images.githubusercontent.com/35291991/93025207-aa4cda00-f619-11ea-84b5-789439a3fcbe.png" height = "460" width="240"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/93025128-08c58880-f619-11ea-9b2b-9f41b8c149ad.png" height = "460" width="240"></td>
         </tr>
 </table> 
 </br>
