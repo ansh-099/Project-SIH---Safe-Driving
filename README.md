@@ -48,7 +48,7 @@ Not just detecting but also predicting impairment of a car driver’s operationa
 <li>PyGame</li>
 <li>Firebase </li>
 <li>Google Maps API</li>
-<li>minSDK version19</li>
+<li>minSDK version21</li>
 </ul>
 </br>
 
